@@ -1,12 +1,14 @@
 ---
 content_type: resource
 description: Image accompanying a video lecture.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-60-thermodynamics-kinetics-spring-2008/6532335e32a7383261e462fe13d2efd3_lec17_th.jpg
+file: /media/courses/5-60-thermodynamics-kinetics-spring-2008/6532335e32a7383261e462fe13d2efd3_lec17_th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: Lecture 17
 uid: 6532335e-32a7-3832-61e4-62fe13d2efd3

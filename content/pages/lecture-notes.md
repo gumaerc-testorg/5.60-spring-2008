@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 74591afb-232e-eb20-5c41-17359f843701
 ---
@@ -27,7 +30,7 @@ LECTURE NOTES
 1
 {{< tdclose >}}
 {{< tdopen >}}
-State of a system, 0th law, equation of state
+State of a system, 0{{< sup "th" >}} law, equation of state
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/5_60_lecture1))
@@ -207,7 +210,7 @@ Chemical equilibrium
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Temperature, pressure and Kp
+Temperature, pressure and K{{< sub "p" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/5_60_lecture16))
@@ -329,7 +332,7 @@ Partition function (q) — large N limit
 {{< tdopen >}}
 Partition function (Q) — many particles
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 ([PDF]({{< baseurl >}}/resources/5_60_lect26_27))
 {{< tdclose >}}
 
@@ -420,7 +423,7 @@ Chain reactions
 34
 {{< tdclose >}}
 {{< tdopen >}}
-Temperature dependence, Ea, catalysis
+Temperature dependence, E{{< sub "a" >}}, catalysis
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/5_60_lecture34))

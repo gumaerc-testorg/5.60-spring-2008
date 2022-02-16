@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-60-thermodynamics-kinetics-spring-2008/a045c23e1916b14dd55c0a74e8557621_RT_v0PhXP5E.srt
+file: /media/courses/5-60-thermodynamics-kinetics-spring-2008/a045c23e1916b14dd55c0a74e8557621_RT_v0PhXP5E.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: a045c23e-1916-b14d-d55c-0a74e8557621
