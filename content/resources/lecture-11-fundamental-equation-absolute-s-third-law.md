@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 11: Fundamental equation, absolute S, third law'
 uid: f4e85d13-ef36-8436-f4c1-dcf9d18ba287
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 **Topics covered:** Fundamental equation, absolute S, third law
 
 **Instructor/speaker:** Moungi Bawendi, Keith Nelson
+
+
+

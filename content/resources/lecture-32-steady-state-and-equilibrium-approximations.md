@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 32: Steady-state and equilibrium approximations'
 uid: 3630128d-1abf-97cb-b28a-4994b15d6102
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 **Topics covered:** Steady-state and equilibrium approximations
 
 **Instructor/speaker:** Moungi Bawendi, Keith Nelson
+
+
+

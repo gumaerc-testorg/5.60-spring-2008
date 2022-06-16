@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 19: Clausius-Clapeyron equation'
 uid: f1c7e976-8c1b-87ca-3726-456a932c23e8
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 **Topics covered:** Clausius-Clapeyron equation
 
 **Instructor/speaker:** Moungi Bawendi, Keith Nelson
+
+
+

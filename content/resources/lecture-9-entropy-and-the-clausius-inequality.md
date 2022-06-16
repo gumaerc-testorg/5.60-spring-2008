@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 9: Entropy and the Clausius inequality'
 uid: c9248051-d4f6-e987-d1e7-8b26841a6b8d
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 **Topics covered:** Entropy and the Clausius inequality
 
 **Instructor/speaker:** Moungi Bawendi, Keith Nelson
+
+
+

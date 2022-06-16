@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Internal energy, expansion work'
 uid: 3130f7cc-e2af-f68d-b88f-e2f874a68452
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 **Topics covered:** Internal energy, expansion work
 
 **Instructor/speaker:** Moungi Bawendi, Keith Nelson
+
+
+

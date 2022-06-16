@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: Work, heat, first law'
 uid: 34390706-ee63-c3f3-b339-46d7c98e6f06
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 **Topics covered:** Work, heat, first law
 
 **Instructor/speaker:** Moungi Bawendi, Keith Nelson
+
+
+

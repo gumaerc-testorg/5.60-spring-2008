@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: State of a system, 0th law, equation of state'
 uid: 06038778-7d8d-25fb-6811-1cdd98bf7f5b
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 **Topics covered:** State of a system, 0th law, equation of state
 
 **Instructor/speaker:** Moungi Bawendi, Keith Nelson
+
+
+

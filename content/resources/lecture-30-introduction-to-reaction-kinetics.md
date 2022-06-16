@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 30: Introduction to reaction kinetics'
 uid: 181c6ccd-0c0f-499e-e80d-280a26add5de
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 **Topics covered:** Introduction to reaction kinetics
 
 **Instructor/speaker:** Moungi Bawendi, Keith Nelson
+
+
+

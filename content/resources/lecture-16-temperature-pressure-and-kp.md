@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 16: Temperature, pressure and Kp'
 uid: e06cd451-1c8d-2d30-b800-bbb56e2e1022
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 **Topics covered:** Temperature, pressure and Kp
 
 **Instructor/speaker:** Moungi Bawendi, Keith Nelson
+
+
+

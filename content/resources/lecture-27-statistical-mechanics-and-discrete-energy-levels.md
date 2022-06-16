@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 27: Statistical mechanics and discrete energy levels'
 uid: 1f8075e4-7063-31f4-38e9-d4aa8fe6e1cd
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 **Topics covered:** Statistical mechanics and discrete energy levels
 
 **Instructor/speaker:** Moungi Bawendi, Keith Nelson
+
+
+

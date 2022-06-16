@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 34: Temperature dependence, Ea, catalysis'
 uid: a0bbc058-1aae-e0a3-dd4d-207ae417391a
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 **Topics covered:** Temperature dependence, Ea, catalysis
 
 **Instructor/speaker:** Moungi Bawendi, Keith Nelson
+
+
+

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The syllabus section provides the course overview and information about
+  the textbook, other resources, examinations, homework, grading, and a schedule of
+  lecture topics and key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

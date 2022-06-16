@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 21: Ideal solutions'
 uid: 27f4bfdf-8ef6-6cad-701e-3cb02ecaf102
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 **Topics covered:** Ideal solutions
 
 **Instructor/speaker:** Moungi Bawendi, Keith Nelson
+
+
+

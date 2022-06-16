@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4: Enthalpy'
 uid: b83f5e4c-0278-1cad-3d4e-6df0a5a8eef6
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 **Topics covered:** Enthalpy
 
 **Instructor/speaker:** Moungi Bawendi, Keith Nelson
+
+
+

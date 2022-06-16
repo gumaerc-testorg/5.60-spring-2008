@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 25: Partition function (q) \u2014 large N limit"
 uid: 81936862-945c-5fbc-f4ce-0e79b892ee79
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 **Topics covered:** Partition function (q) — large N limit
 
 **Instructor/speaker:** Moungi Bawendi, Keith Nelson
+
+
+

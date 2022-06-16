@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 20: Phase equilibria \u2014 two components"
 uid: bd920316-e51a-f16f-4a04-a2a868723d52
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 **Topics covered:** Phase equilibria — two components
 
 **Instructor/speaker:** Moungi Bawendi, Keith Nelson
+
+
+

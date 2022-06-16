@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 14: Multicomponent systems, chemical potential'
 uid: 8ca942ec-d47a-61d1-0be0-e575e308ed6d
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 **Topics covered:** Multicomponent systems, chemical potential
 
 **Instructor/speaker:** Moungi Bawendi, Keith Nelson
+
+
+
