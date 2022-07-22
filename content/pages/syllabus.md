@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The syllabus section provides the course overview and information about
+  the textbook, other resources, examinations, homework, grading, and a schedule of
+  lecture topics and key dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ab3bd2a8-ea1a-7fd5-c8b3-2259c5cdb8bc
 ---
@@ -112,7 +117,7 @@ KEY DATES
 1
 {{< tdclose >}}
 {{< tdopen >}}
-State of a system, 0th law, equation of state
+State of a system, 0{{< sup "th" >}} law, equation of state
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -304,7 +309,7 @@ Chemical equilibrium
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Temperature, pressure and Kp
+Temperature, pressure and K{{< sub "p" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 4 due
@@ -544,7 +549,7 @@ Chain reactions
 34
 {{< tdclose >}}
 {{< tdopen >}}
-Temperature dependence, Ea, catalysis
+Temperature dependence, E{{< sub "a" >}}, catalysis
 {{< tdclose >}}
 {{< tdopen >}}
 Problem set 9 due

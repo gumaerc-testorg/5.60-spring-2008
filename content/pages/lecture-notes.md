@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the lecture notes for the course along with the
+  schedule of lecture topics.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 74591afb-232e-eb20-5c41-17359f843701
 ---
@@ -27,10 +32,10 @@ LECTURE NOTES
 1
 {{< tdclose >}}
 {{< tdopen >}}
-State of a system, 0th law, equation of state
+State of a system, 0{{< sup "th" >}} law, equation of state
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture1))
+({{% resource_link bc172a63-2ae2-8798-bdb0-078177bcec9c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +47,7 @@ State of a system, 0th law, equation of state
 Work, heat, first law
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture2))
+({{% resource_link dae4a209-684c-b7cf-e827-ff1df7a4fe0e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +59,7 @@ Work, heat, first law
 Internal energy, expansion work
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture3))
+({{% resource_link e1fb6f8d-caf3-6cb4-6d58-32412accc687 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +71,7 @@ Internal energy, expansion work
 Enthalpy
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture4))
+({{% resource_link e1f80548-33e8-077b-f942-8c27cbf0465c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +83,7 @@ Enthalpy
 Adiabatic changes
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture5))
+({{% resource_link ecf48bf4-cb80-fcb6-b9bb-5b3726287b1d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +95,7 @@ Adiabatic changes
 Thermochemistry
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture6))
+({{% resource_link 252daab4-650e-fb15-09e7-bbf84ed08230 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +107,7 @@ Thermochemistry
 Calorimetry
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture7))
+({{% resource_link 0bcd290f-f179-f0be-4f85-30854ad2dcde "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +119,7 @@ Calorimetry
 Second law
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture8_9))
+({{% resource_link 7bd59150-41af-0d80-eb56-4fe45bf9bec8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +131,7 @@ Second law
 Entropy and the Clausius inequality
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture9))
+({{% resource_link 04d93043-2a17-469f-5684-ef7d999e190d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,7 +143,7 @@ Entropy and the Clausius inequality
 Entropy and irreversibility
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture10))
+({{% resource_link 3988daf7-2a36-9ebf-a696-cf67b7b43518 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +155,7 @@ Entropy and irreversibility
 Fundamental equation, absolute S, third law
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture11))
+({{% resource_link 80b7cb5e-0edc-45c6-e87a-f648470c8f5a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +167,7 @@ Fundamental equation, absolute S, third law
 Criteria for spontaneous change
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture12))
+({{% resource_link 64efc6f3-59b2-0c43-dab6-1fc77791d744 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +179,7 @@ Criteria for spontaneous change
 Gibbs free energy
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture13))
+({{% resource_link 7bc33304-ab1d-b561-a64b-4a6b12e25476 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,7 +191,7 @@ Gibbs free energy
 Multicomponent systems, chemical potential
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture14))
+({{% resource_link e763a06a-a3b5-de09-cd6b-fea6280f219c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +203,7 @@ Multicomponent systems, chemical potential
 Chemical equilibrium
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture15))
+({{% resource_link 52946f97-fcb1-8850-c32e-9d4b8f6bab6a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -207,10 +212,10 @@ Chemical equilibrium
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Temperature, pressure and Kp
+Temperature, pressure and K{{< sub "p" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture16))
+({{% resource_link b5ee4656-0871-130e-83de-4256ce2a703e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -222,7 +227,7 @@ Temperature, pressure and Kp
 Equilibrium: application to drug design
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture17))
+({{% resource_link ab859d1e-3d5c-d3c5-e2f8-6493fa04e95c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -234,7 +239,7 @@ Equilibrium: application to drug design
 Phase equilibria — one component
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture18))
+({{% resource_link b0a92c89-aebd-b34b-4a6e-ee3829f8621d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -246,7 +251,7 @@ Phase equilibria — one component
 Clausius-Clapeyron equation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture19))
+({{% resource_link 8b3da396-348c-4c9b-b392-9b4d0057205e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -258,7 +263,7 @@ Clausius-Clapeyron equation
 Phase equilibria — two components
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture20))
+({{% resource_link 392cd1ff-2890-665c-1ab9-cb0f0acec639 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -270,7 +275,7 @@ Phase equilibria — two components
 Ideal solutions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture21))
+({{% resource_link 315a50f1-1a4a-8fbf-750c-26cb672a2946 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -282,7 +287,7 @@ Ideal solutions
 Non-ideal solutions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture22))
+({{% resource_link c2a3adeb-420f-7188-6773-9e66fb743cd2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -294,7 +299,7 @@ Non-ideal solutions
 Colligative properties
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture23))
+({{% resource_link af72c87f-7a84-d81e-313d-4d79f883be67 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -306,7 +311,7 @@ Colligative properties
 Introduction to statistical mechanics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture24))
+({{% resource_link e4de7666-2502-6dad-311c-5b410c0e839c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -318,7 +323,7 @@ Introduction to statistical mechanics
 Partition function (q) — large N limit
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture25))
+({{% resource_link cdf7dffd-b31b-7c57-7aa5-2e204781bb71 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -329,8 +334,8 @@ Partition function (q) — large N limit
 {{< tdopen >}}
 Partition function (Q) — many particles
 {{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lect26_27))
+{{< tdopen rowspan="2" >}}
+({{% resource_link 65fbfe39-b22c-b928-54c9-695abd074562 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -351,7 +356,7 @@ Statistical mechanics and discrete energy levels
 Model systems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture28))
+({{% resource_link ad007a6c-730b-fac1-61d4-62cbc8c85353 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -363,7 +368,7 @@ Model systems
 Applications: chemical and phase equilibria
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture29))
+({{% resource_link 1583240d-670e-bcfa-eb9f-0ffd840d2fe0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -375,7 +380,7 @@ Applications: chemical and phase equilibria
 Introduction to reaction kinetics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture30))
+({{% resource_link 344540bf-8372-3366-1dce-fa99bff6ca49 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -387,7 +392,7 @@ Introduction to reaction kinetics
 Complex reactions and mechanisms
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture31))
+({{% resource_link a25d1dc9-48c0-8305-678f-7f6618b4c960 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -399,7 +404,7 @@ Complex reactions and mechanisms
 Steady-state and equilibrium approximations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture32))
+({{% resource_link bf630d0c-dcff-1433-3f24-6bac5afe5686 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -411,7 +416,7 @@ Steady-state and equilibrium approximations
 Chain reactions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture33))
+({{% resource_link 50daecaf-606d-0e85-e64f-f4993baa2cce "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -420,10 +425,10 @@ Chain reactions
 34
 {{< tdclose >}}
 {{< tdopen >}}
-Temperature dependence, Ea, catalysis
+Temperature dependence, E{{< sub "a" >}}, catalysis
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture34))
+({{% resource_link b14f5f03-43f3-aeaf-31b0-15dd78bc8628 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -435,7 +440,7 @@ Temperature dependence, Ea, catalysis
 Enzyme catalysis
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/5_60_lecture35))
+({{% resource_link 3e93a0bc-f069-ec09-0f0f-adc3905b3601 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

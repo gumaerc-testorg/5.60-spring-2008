@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information about the course exams and review materials
+  for the final exam.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: c383e818-6ea1-3d64-0886-bb4cdc267f6a
 ---
@@ -36,7 +41,7 @@ Problem sets 1-3
 
 {{< tdclose >}}
 {{< tdopen >}}
-Exam I information ([PDF]({{< baseurl >}}/resources/5_60_exam1_info))
+Exam I information ({{% resource_link 353cd5bc-eace-6eea-a6ef-06d077898ef8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +59,7 @@ Problem sets 4-5
 
 {{< tdclose >}}
 {{< tdopen >}}
-Exam II information ([PDF]({{< baseurl >}}/resources/5_60_exam2_info))
+Exam II information ({{% resource_link 5f479eab-2f5a-be45-c319-497a857331b3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +77,7 @@ Problem sets 6-8
 
 {{< tdclose >}}
 {{< tdopen >}}
-Exam III information ([PDF]({{< baseurl >}}/resources/5_60_exam3_info))
+Exam III information ({{% resource_link 13e3aa1a-ac26-1945-3eee-58fac55acea9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,9 +97,9 @@ Problem sets 1-9
 {{< tdopen >}}
 
 
-Final exam review ([PDF]({{< baseurl >}}/resources/final_exam_rev))
+Final exam review ({{% resource_link a55b27c7-b377-9455-9b7c-3d3e9a0f9a74 "PDF" %}})
 
-Math review for final ([PDF]({{< baseurl >}}/resources/final_exam_math))
+Math review for final ({{% resource_link dd585a1f-22af-bd79-c5fa-04027e65745f "PDF" %}})
 
 
 {{< tdclose >}}

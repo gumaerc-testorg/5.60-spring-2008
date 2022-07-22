@@ -1,6 +1,11 @@
 ---
 content_type: video_gallery
+description: This section contains the information about streaming media and downloadable
+  media.
 is_media_gallery: true
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 title: Video Lectures
 uid: 25a62c70-003e-2eff-b3d1-8a2e0399fb16
 videos:
