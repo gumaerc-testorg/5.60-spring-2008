@@ -6,6 +6,7 @@ file: /courses/5-60-thermodynamics-kinetics-spring-2008/390e74a8e6ce80a512f8d058
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Chemical Equilibrium
 uid: 390e74a8-e6ce-80a5-12f8-d0582aa7d777
 ---
 Lecture notes on Helmholtz and Gibbs free energy, chemical equilibrium, ideal gases, and the effect of total pressure.
-

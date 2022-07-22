@@ -6,6 +6,7 @@ file: /courses/5-60-thermodynamics-kinetics-spring-2008/cc5acc515e0501d62f524d06
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Complex Reactions and Mechanisms (continued)
 uid: cc5acc51-5e05-01d6-2f52-4d06ef5cef41
 ---
 Lecture notes on complex reactions and mechanisms, and steady-state and equilibrium approximations.
-

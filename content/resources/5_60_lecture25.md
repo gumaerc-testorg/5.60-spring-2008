@@ -6,6 +6,7 @@ file: /courses/5-60-thermodynamics-kinetics-spring-2008/cdf7dffdb31b7c577aa52e20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Partition Functions
 uid: cdf7dffd-b31b-7c57-7aa5-2e204781bb71
 ---
 Lecture notes on partition functions, examples of macroscopic thermodynamic results, ideal gas mixture, and ideal liquid mixture.
-

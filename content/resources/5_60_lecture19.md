@@ -5,6 +5,7 @@ file: /courses/5-60-thermodynamics-kinetics-spring-2008/8b3da396348c4c9bb3929b4d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Clausius-Clapeyron Equation
 uid: 8b3da396-348c-4c9b-b392-9b4d0057205e
 ---
 Lecture notes on the Clausius-Clapeyron equation.
-

@@ -5,6 +5,7 @@ file: /courses/5-60-thermodynamics-kinetics-spring-2008/a3ed016d56f65c2d5dcc1324
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Entropy and Disorder
 uid: a3ed016d-56f6-5c2d-5dcc-13249ae32cc8
 ---
 Lecture notes on entropy, disorder, and the Clausius inequality.
-

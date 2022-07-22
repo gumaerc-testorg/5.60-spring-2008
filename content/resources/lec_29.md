@@ -5,6 +5,7 @@ file: /courses/5-60-thermodynamics-kinetics-spring-2008/99b3cebcc7d963ef0d187701
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Kinetics: Reaction Rates, Orders, and Half Lives'
 uid: 99b3cebc-c7d9-63ef-0d18-77018d5a7d2a
 ---
 Lecture notes on kinetics, reaction rates, orders, and half lives.
-

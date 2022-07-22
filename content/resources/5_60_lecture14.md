@@ -6,6 +6,7 @@ file: /courses/5-60-thermodynamics-kinetics-spring-2008/e763a06aa3b5de09cd6bfea6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Multicomponent Systems, Partial Molar Quantities, and the Chemical Potent
 uid: e763a06a-a3b5-de09-cd6b-fea6280f219c
 ---
 Lecture notes about criteria for equilibrium, multicomponent systems, partial molar quantities, and the chemical potential.
-

@@ -5,6 +5,7 @@ file: /courses/5-60-thermodynamics-kinetics-spring-2008/dd585a1f22afbd79c5fa0402
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Math Review
 uid: dd585a1f-22af-bd79-c5fa-04027e65745f
 ---
 Math review for the final exam of the course.
-

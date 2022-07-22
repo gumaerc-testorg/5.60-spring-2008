@@ -5,6 +5,7 @@ file: /courses/5-60-thermodynamics-kinetics-spring-2008/04d930432a17469f5684ef7d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Entropy
 uid: 04d93043-2a17-469f-5684-ef7d999e190d
 ---
 Lecture notes on entropy.
-

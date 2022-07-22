@@ -6,6 +6,7 @@ file: /courses/5-60-thermodynamics-kinetics-spring-2008/ad007a6c730bfac161d462cb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Model Systems
 uid: ad007a6c-730b-fac1-61d4-62cbc8c85353
 ---
 Lecture notes on model systems, partition functions, statistical mechanics, and discrete energy levels.
-

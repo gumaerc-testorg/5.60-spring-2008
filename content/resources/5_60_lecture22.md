@@ -6,6 +6,7 @@ file: /courses/5-60-thermodynamics-kinetics-spring-2008/c2a3adeb420f718867739e66
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Two-Component Phase Equilibria II: Ideal and Non-Ideal Solutions'
 uid: c2a3adeb-420f-7188-6773-9e66fb743cd2
 ---
 Lecture notes on two-component phase equilibria, ideal solutions, and non-ideal solutions.
-

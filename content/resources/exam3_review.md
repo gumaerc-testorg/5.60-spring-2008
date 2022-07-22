@@ -7,6 +7,7 @@ file: /courses/5-60-thermodynamics-kinetics-spring-2008/5d614d223be5b1b350fd5620
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Key Concepts for Exam 3
 uid: 5d614d22-3be5-b1b3-50fd-562084983d47
 ---
 Information on the third exam of the course. Includes materials covered and a review of one component phase equilibrium, two component phase equilibrium, and statistical mechanics.
-

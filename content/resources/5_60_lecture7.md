@@ -5,6 +5,7 @@ file: /courses/5-60-thermodynamics-kinetics-spring-2008/0bcd290ff179f0be4f853085
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Calorimetry
 uid: 0bcd290f-f179-f0be-4f85-30854ad2dcde
 ---
 Lecture notes on calorimetry and bond energies.
-

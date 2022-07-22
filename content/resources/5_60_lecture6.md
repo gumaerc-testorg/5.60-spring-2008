@@ -5,6 +5,7 @@ file: /courses/5-60-thermodynamics-kinetics-spring-2008/252daab4650efb1509e7bbf8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Thermochemistry
 uid: 252daab4-650e-fb15-09e7-bbf84ed08230
 ---
 Lecture notes on thermochemistry.
-

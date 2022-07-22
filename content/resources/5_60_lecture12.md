@@ -5,6 +5,7 @@ file: /courses/5-60-thermodynamics-kinetics-spring-2008/64efc6f359b20c43dab61fc7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Criteria for Spontaneous Change
 uid: 64efc6f3-59b2-0c43-dab6-1fc77791d744
 ---
 Lecture notes on criteria for spontaneous change.
-

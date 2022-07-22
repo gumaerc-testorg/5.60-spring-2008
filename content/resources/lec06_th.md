@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Lecture 6
 uid: f3fc943d-c02a-6faf-246b-bad9db659348
 ---
 Image accompanying a video lecture.
-

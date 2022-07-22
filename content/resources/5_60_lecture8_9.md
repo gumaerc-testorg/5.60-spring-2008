@@ -5,6 +5,7 @@ file: /courses/5-60-thermodynamics-kinetics-spring-2008/7bd5915041af0d80eb564fe4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: The Second Law
 uid: 7bd59150-41af-0d80-eb56-4fe45bf9bec8
 ---
 Lecture notes on the second law of thermodynamics.
-

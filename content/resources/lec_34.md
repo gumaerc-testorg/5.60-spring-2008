@@ -5,6 +5,7 @@ file: /courses/5-60-thermodynamics-kinetics-spring-2008/45190759bf9522ae2cf2bd5c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Temperature Dependence of Rate Constant
 uid: 45190759-bf95-22ae-2cf2-bd5c180bdd46
 ---
 Lecture notes on temperature dependence, the Arrhenius law, and catalysis.
-

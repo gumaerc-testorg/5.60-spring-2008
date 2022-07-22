@@ -6,6 +6,7 @@ file: /courses/5-60-thermodynamics-kinetics-spring-2008/2e8fec9f63d59037fc366faa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Equilibrium: Application to Drug Design'
 uid: 2e8fec9f-63d5-9037-fc36-6faa90966481
 ---
 Lecture notes about chemical equilibrium in gases and application to drug design.
-

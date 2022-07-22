@@ -6,6 +6,7 @@ file: /courses/5-60-thermodynamics-kinetics-spring-2008/5f479eab2f5abe45c319497a
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Exam II Information
 uid: 5f479eab-2f5a-be45-c319-497a857331b3
 ---
 Review of equations that will be provided with the second exam of the course.
-
