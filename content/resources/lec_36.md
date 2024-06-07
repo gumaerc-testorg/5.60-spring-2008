@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on chemical oscillations and autocatalysis.
 file: /courses/5-60-thermodynamics-kinetics-spring-2008/334e8ce3fbea909c44ee067608617905_lec_36.pdf
+file_size: 77488
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: Information on the second exam of the course. Includes what to bring,
   materials covered, and topics to review.
 file: /courses/5-60-thermodynamics-kinetics-spring-2008/596c10b54e02c0706397b2cdade43400_exam2_info.pdf
+file_size: 70065
 file_type: application/pdf
 learning_resource_types:
 - Exams

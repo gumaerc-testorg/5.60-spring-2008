@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on thermodynamics, the four laws, and equations of state.
 file: /courses/5-60-thermodynamics-kinetics-spring-2008/d54533bca18fc639704a08f510562a2a_lec_1.pdf
+file_size: 141741
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

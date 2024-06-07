@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on complex reactions and mechanisms.
 file: /courses/5-60-thermodynamics-kinetics-spring-2008/50daecaf606d0e85e64ff4993baa2cce_5_60_lecture33.pdf
+file_size: 103847
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

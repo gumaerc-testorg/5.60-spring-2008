@@ -3,6 +3,7 @@ content_type: resource
 description: Information on the first exam of the course. Includes what to bring,
   materials covered, and topics to review.
 file: /courses/5-60-thermodynamics-kinetics-spring-2008/42e8595e58bc09420dd22b9735435ea6_exam1_info.pdf
+file_size: 112376
 file_type: application/pdf
 learning_resource_types:
 - Exams

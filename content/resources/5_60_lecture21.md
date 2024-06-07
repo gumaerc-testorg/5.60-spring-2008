@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on two-component phase equilibria, ideal solutions, and
   non-ideal solutions.
 file: /courses/5-60-thermodynamics-kinetics-spring-2008/315a50f11a4a8fbf750c26cb672a2946_5_60_lecture21.pdf
+file_size: 126186
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

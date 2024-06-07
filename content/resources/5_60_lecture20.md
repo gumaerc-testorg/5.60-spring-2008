@@ -3,6 +3,7 @@ content_type: resource
 description: "Lecture notes on two-component phase equilibria, binary liquid-gas mixtures,\
   \ Raoult\u2019s law, and ideal solutions."
 file: /courses/5-60-thermodynamics-kinetics-spring-2008/392cd1ff2890665c1ab9cb0f0acec639_5_60_lecture20.pdf
+file_size: 128466
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

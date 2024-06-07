@@ -2,6 +2,7 @@
 content_type: resource
 description: Image accompanying a video lecture.
 file: /courses/5-60-thermodynamics-kinetics-spring-2008/61f21f1a384c4e89f44c93140c4510db_lec27_th.jpg
+file_size: 2477
 file_type: image/jpeg
 image_metadata:
   caption: ''

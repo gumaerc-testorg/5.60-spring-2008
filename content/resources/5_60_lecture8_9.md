@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on the second law of thermodynamics.
 file: /courses/5-60-thermodynamics-kinetics-spring-2008/7bd5915041af0d80eb564fe45bf9bec8_5_60_lecture8_9.pdf
+file_size: 189624
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
