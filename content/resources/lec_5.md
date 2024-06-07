@@ -4,6 +4,7 @@ description: Lecture notes on reversible adiabatic expansion (or compression) of
   ideal gas, irreversible adiabatic expansion of an ideal gas against a constant external
   pressure, and thermodynamic cycles.
 file: /courses/5-60-thermodynamics-kinetics-spring-2008/ab10710189fe5c16622dfa772a3c3edd_lec_5.pdf
+file_size: 143886
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

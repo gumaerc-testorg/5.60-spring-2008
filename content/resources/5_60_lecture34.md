@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on temperature dependence, the Arrhenius law, and catalysis.
 file: /courses/5-60-thermodynamics-kinetics-spring-2008/b14f5f0343f3aeaf31b015dd78bc8628_5_60_lecture34.pdf
+file_size: 68839
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

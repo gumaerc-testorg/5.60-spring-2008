@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes about phase equilibria in a 1-component system.
 file: /courses/5-60-thermodynamics-kinetics-spring-2008/b0a92c89aebdb34b4a6eee3829f8621d_5_60_lecture18.pdf
+file_size: 199673
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

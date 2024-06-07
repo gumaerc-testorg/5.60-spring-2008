@@ -2,6 +2,7 @@
 content_type: resource
 description: Review materials for the final exam on thermodynamics and kinetics.
 file: /courses/5-60-thermodynamics-kinetics-spring-2008/a55b27c7b37794559b7c3d3e9a0f9a74_final_exam_rev.pdf
+file_size: 209966
 file_type: application/pdf
 learning_resource_types:
 - Exams

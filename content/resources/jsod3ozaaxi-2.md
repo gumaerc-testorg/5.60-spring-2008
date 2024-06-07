@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/5-60-thermodynamics-kinetics-spring-2008/7c474d33bdfa5f609b6dc23c2ff5fcd4_jsoD3oZAAXI.vtt
+file_size: 44329
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

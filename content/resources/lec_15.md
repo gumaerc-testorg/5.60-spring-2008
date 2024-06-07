@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on Helmholtz and Gibbs free energy, chemical equilibrium,
   ideal gases, and the effect of total pressure.
 file: /courses/5-60-thermodynamics-kinetics-spring-2008/390e74a8e6ce80a512f8d0582aa7d777_lec_15.pdf
+file_size: 106178
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
