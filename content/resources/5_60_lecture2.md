@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on work, heat, and the first law of thermodynamics.
 file: /courses/5-60-thermodynamics-kinetics-spring-2008/dae4a209684cb7cfe827ff1df7a4fe0e_5_60_lecture2.pdf
+file_size: 172392
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

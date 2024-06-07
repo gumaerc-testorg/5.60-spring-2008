@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on entropy.
 file: /courses/5-60-thermodynamics-kinetics-spring-2008/c7aa46fceba856268744fed584fc1d80_lec_9.pdf
+file_size: 149885
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

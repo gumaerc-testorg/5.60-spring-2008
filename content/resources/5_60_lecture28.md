@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on model systems, partition functions, statistical mechanics,
   and discrete energy levels.
 file: /courses/5-60-thermodynamics-kinetics-spring-2008/ad007a6c730bfac161d462cbc8c85353_5_60_lecture28.pdf
+file_size: 250586
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

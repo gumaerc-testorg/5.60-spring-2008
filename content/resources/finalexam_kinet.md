@@ -3,6 +3,7 @@ content_type: resource
 description: Final exam review on kinetics, parallel reactions, consecutive reactions,
   reversible reactions, steady-state versus equilibrium, and Arrhenius theory.
 file: /courses/5-60-thermodynamics-kinetics-spring-2008/a04bd477da7844cee86842d92790246f_finalexam_Kinet.pdf
+file_size: 179993
 file_type: application/pdf
 learning_resource_types:
 - Exams

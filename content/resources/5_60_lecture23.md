@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on colligative properties, vapor pressure lowering, boiling
   point elevation, freezing point depression, and osmotic pressure.
 file: /courses/5-60-thermodynamics-kinetics-spring-2008/af72c87f7a84d81e313d4d79f883be67_5_60_lecture23.pdf
+file_size: 114328
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

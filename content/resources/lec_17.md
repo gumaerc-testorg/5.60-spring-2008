@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes about chemical equilibrium in gases and application to
   drug design.
 file: /courses/5-60-thermodynamics-kinetics-spring-2008/2e8fec9f63d59037fc366faa90966481_lec_17.pdf
+file_size: 91305
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

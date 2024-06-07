@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on kinetics, reaction rates, orders, and half lives.
 file: /courses/5-60-thermodynamics-kinetics-spring-2008/99b3cebcc7d963ef0d1877018d5a7d2a_lec_29.pdf
+file_size: 103462
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

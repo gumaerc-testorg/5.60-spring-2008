@@ -4,6 +4,7 @@ description: "Lecture notes on chemical and phase equilibria. The objective of t
   \ lecture is to apply statistical mechanics to develop microscopic models for problems\
   \ you\u2019ve treated so far with macroscopic thermodynamics."
 file: /courses/5-60-thermodynamics-kinetics-spring-2008/1583240d670ebcfaeb9f0ffd840d2fe0_5_60_lecture29.pdf
+file_size: 183801
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

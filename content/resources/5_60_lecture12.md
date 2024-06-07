@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on criteria for spontaneous change.
 file: /courses/5-60-thermodynamics-kinetics-spring-2008/64efc6f359b20c43dab61fc77791d744_5_60_lecture12.pdf
+file_size: 90588
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
