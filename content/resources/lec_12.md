@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on criteria for spontaneous change.
-file: /courses/5-60-thermodynamics-kinetics-spring-2008/6b5a98126186741f06b0d6483d494ed5_lec_12.pdf
+file: /ol-ocw-studio-app/courses/5-60-thermodynamics-kinetics-spring-2008/6b5a98126186741f06b0d6483d494ed5_lec_12.pdf
 file_size: 87334
 file_type: application/pdf
 learning_resource_types:

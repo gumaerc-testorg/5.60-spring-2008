@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on fundamental equations, absolute entropy, and the third
   law of thermodynamics.
-file: /courses/5-60-thermodynamics-kinetics-spring-2008/4ea6572fad39216832aae71936a48803_lec_11.pdf
+file: /ol-ocw-studio-app/courses/5-60-thermodynamics-kinetics-spring-2008/4ea6572fad39216832aae71936a48803_lec_11.pdf
 file_size: 133888
 file_type: application/pdf
 learning_resource_types:

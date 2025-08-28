@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on calorimetry and bond energies.
-file: /courses/5-60-thermodynamics-kinetics-spring-2008/0bcd290ff179f0be4f8530854ad2dcde_5_60_lecture7.pdf
+file: /ol-ocw-studio-app/courses/5-60-thermodynamics-kinetics-spring-2008/0bcd290ff179f0be4f8530854ad2dcde_5_60_lecture7.pdf
 file_size: 117552
 file_type: application/pdf
 learning_resource_types:

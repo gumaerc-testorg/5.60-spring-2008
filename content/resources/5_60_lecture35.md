@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on enzyme catalysis, the Michaelis-Menten mechanism, and
   the Lineweaver-Burk plot.
-file: /courses/5-60-thermodynamics-kinetics-spring-2008/3e93a0bcf069ec090f0fadc3905b3601_5_60_lecture35.pdf
+file: /ol-ocw-studio-app/courses/5-60-thermodynamics-kinetics-spring-2008/3e93a0bcf069ec090f0fadc3905b3601_5_60_lecture35.pdf
 file_size: 101070
 file_type: application/pdf
 learning_resource_types:

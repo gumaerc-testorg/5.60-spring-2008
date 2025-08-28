@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on partition functions, examples of macroscopic thermodynamic
   results, ideal gas mixture, and ideal liquid mixture.
-file: /courses/5-60-thermodynamics-kinetics-spring-2008/cdf7dffdb31b7c577aa52e204781bb71_5_60_lecture25.pdf
+file: /ol-ocw-studio-app/courses/5-60-thermodynamics-kinetics-spring-2008/cdf7dffdb31b7c577aa52e204781bb71_5_60_lecture25.pdf
 file_size: 116983
 file_type: application/pdf
 learning_resource_types:
