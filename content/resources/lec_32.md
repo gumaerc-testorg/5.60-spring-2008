@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on complex reactions and mechanisms, and steady-state and
   equilibrium approximations.
-file: /courses/5-60-thermodynamics-kinetics-spring-2008/cc5acc515e0501d62f524d06ef5cef41_lec_32.pdf
+file: /ol-ocw-studio-app/courses/5-60-thermodynamics-kinetics-spring-2008/cc5acc515e0501d62f524d06ef5cef41_lec_32.pdf
 file_size: 105971
 file_type: application/pdf
 learning_resource_types:

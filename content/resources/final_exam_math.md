@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Math review for the final exam of the course.
-file: /courses/5-60-thermodynamics-kinetics-spring-2008/dd585a1f22afbd79c5fa04027e65745f_final_exam_math.pdf
+file: /ol-ocw-studio-app/courses/5-60-thermodynamics-kinetics-spring-2008/dd585a1f22afbd79c5fa04027e65745f_final_exam_math.pdf
 file_size: 257567
 file_type: application/pdf
 learning_resource_types:

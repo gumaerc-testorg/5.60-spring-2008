@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on equilibrium in solution.
-file: /courses/5-60-thermodynamics-kinetics-spring-2008/9979ebf75a65a38c2031d5b7b28ede10_lec_16.pdf
+file: /ol-ocw-studio-app/courses/5-60-thermodynamics-kinetics-spring-2008/9979ebf75a65a38c2031d5b7b28ede10_lec_16.pdf
 file_size: 115620
 file_type: application/pdf
 learning_resource_types:

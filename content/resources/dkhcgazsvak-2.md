@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/5-60-thermodynamics-kinetics-spring-2008/c0bf48cfcc12568295219d4e880bcb13_dkHcgAzsvAk.vtt
+file: /ol-ocw-studio-app/courses/5-60-thermodynamics-kinetics-spring-2008/c0bf48cfcc12568295219d4e880bcb13_dkHcgAzsvAk.vtt
 file_size: 53462
 file_type: application/x-subrip
 learning_resource_types: []

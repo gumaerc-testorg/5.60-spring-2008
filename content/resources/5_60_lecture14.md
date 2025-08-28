@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes about criteria for equilibrium, multicomponent systems,
   partial molar quantities, and the chemical potential.
-file: /courses/5-60-thermodynamics-kinetics-spring-2008/e763a06aa3b5de09cd6bfea6280f219c_5_60_lecture14.pdf
+file: /ol-ocw-studio-app/courses/5-60-thermodynamics-kinetics-spring-2008/e763a06aa3b5de09cd6bfea6280f219c_5_60_lecture14.pdf
 file_size: 134137
 file_type: application/pdf
 learning_resource_types:
