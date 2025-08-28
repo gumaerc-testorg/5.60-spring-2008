@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image accompanying a video lecture.
-file: /courses/5-60-thermodynamics-kinetics-spring-2008/736fb44fa77e3f0a92286a8aae6fef88_lec13_th.jpg
+file: /ol-ocw-studio-app/courses/5-60-thermodynamics-kinetics-spring-2008/736fb44fa77e3f0a92286a8aae6fef88_lec13_th.jpg
 file_size: 2761
 file_type: image/jpeg
 image_metadata:

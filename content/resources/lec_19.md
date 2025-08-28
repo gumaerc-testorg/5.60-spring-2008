@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on the Clausius-Clapeyron equation.
-file: /courses/5-60-thermodynamics-kinetics-spring-2008/61cfda47b13346f130d2648318993931_lec_19.pdf
+file: /ol-ocw-studio-app/courses/5-60-thermodynamics-kinetics-spring-2008/61cfda47b13346f130d2648318993931_lec_19.pdf
 file_size: 156328
 file_type: application/pdf
 learning_resource_types:

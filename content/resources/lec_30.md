@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on complex reactions and mechanisms.
-file: /courses/5-60-thermodynamics-kinetics-spring-2008/db49513d6a195558faf4221eb3ea8ae5_lec_30.pdf
+file: /ol-ocw-studio-app/courses/5-60-thermodynamics-kinetics-spring-2008/db49513d6a195558faf4221eb3ea8ae5_lec_30.pdf
 file_size: 95771
 file_type: application/pdf
 learning_resource_types:

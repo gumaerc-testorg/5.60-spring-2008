@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on enthalpy, chemical reactions and biological processes,
   and Joule-Thomson expansion.
-file: /courses/5-60-thermodynamics-kinetics-spring-2008/e1f8054833e8077bf9428c27cbf0465c_5_60_lecture4.pdf
+file: /ol-ocw-studio-app/courses/5-60-thermodynamics-kinetics-spring-2008/e1f8054833e8077bf9428c27cbf0465c_5_60_lecture4.pdf
 file_size: 149621
 file_type: application/pdf
 learning_resource_types:

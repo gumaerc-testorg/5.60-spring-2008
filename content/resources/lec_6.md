@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on thermochemistry.
-file: /courses/5-60-thermodynamics-kinetics-spring-2008/7005caaafeb38d51449712d18e8a4fa2_lec_6.pdf
+file: /ol-ocw-studio-app/courses/5-60-thermodynamics-kinetics-spring-2008/7005caaafeb38d51449712d18e8a4fa2_lec_6.pdf
 file_size: 142109
 file_type: application/pdf
 learning_resource_types:

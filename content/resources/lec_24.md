@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes with an introduction to statistical mechanics and discussion
   of probability of system in a state with given energy, partition functions, thermodynamic
   properties from partition functions, and entropy in terms of probabilities and degeneracies.
-file: /courses/5-60-thermodynamics-kinetics-spring-2008/467a7242c0dcac8ebebf9e6ffbd3ba74_lec_24.pdf
+file: /ol-ocw-studio-app/courses/5-60-thermodynamics-kinetics-spring-2008/467a7242c0dcac8ebebf9e6ffbd3ba74_lec_24.pdf
 file_size: 130584
 file_type: application/pdf
 learning_resource_types:

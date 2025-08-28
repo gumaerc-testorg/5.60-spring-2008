@@ -3,7 +3,7 @@ content_type: resource
 description: Information on the third exam of the course. Includes materials covered
   and a review of one component phase equilibrium, two component phase equilibrium,
   and statistical mechanics.
-file: /courses/5-60-thermodynamics-kinetics-spring-2008/5d614d223be5b1b350fd562084983d47_exam3_review.pdf
+file: /ol-ocw-studio-app/courses/5-60-thermodynamics-kinetics-spring-2008/5d614d223be5b1b350fd562084983d47_exam3_review.pdf
 file_size: 122392
 file_type: application/pdf
 learning_resource_types:
