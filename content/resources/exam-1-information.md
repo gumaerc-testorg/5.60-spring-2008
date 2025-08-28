@@ -1,10 +1,10 @@
 ---
 content_type: resource
-description: Information on the third exam of the course. Includes what to bring,
-  materials covered, topics to review, and a list equations you should know.
+description: Information on the first exam of the course. Includes what to bring,
+  materials covered, and topics to review.
 draft: false
-file: /ol-ocw-studio-app/courses/5-60-thermodynamics-kinetics-spring-2008/ac439cf9ac9a9c1b153181528f78df34_exam3_info.pdf
-file_size: 120561
+file: /ol-ocw-studio-app/courses/5-60-thermodynamics-kinetics-spring-2008/353cd5bceace6eeaa6ef06d077898ef8_5_60_exam1_info.pdf
+file_size: 131611
 file_type: application/pdf
 image_metadata:
   caption: ''
@@ -18,8 +18,8 @@ parent_title: Exams
 parent_type: CourseSection
 parent_uid: c383e818-6ea1-3d64-0886-bb4cdc267f6a
 resourcetype: Document
-title: Exam 3 Information
-uid: ac439cf9-ac9a-9c1b-1531-81528f78df34
+title: Exam 1 Information
+uid: 353cd5bc-eace-6eea-a6ef-06d077898ef8
 video_files:
   archive_url: ''
   video_captions_file: ''
@@ -32,4 +32,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-Information on the third exam of the course. Includes what to bring, materials covered, topics to review, and a list equations you should know.
+Information on the first exam of the course. Includes what to bring, materials covered, and topics to review.
